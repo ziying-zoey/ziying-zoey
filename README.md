@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently a EEE undergraguate student in SUSTech major in communication engineering and minor in finance
+🔭 I’m currently a EEE undergraguate student in SUSTech major in Communication Engineering and minor in Finance
 
 🌱 I’m currently learning deep learning and LLM (they are sooo intersting!)
  
