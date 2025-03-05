@@ -5,7 +5,7 @@
  
  🤔 I’m searching for an internship to strengthen my skills in AI research
 
- 📫 How to reach me: 12212453@mail.sustech.edu.cn
+ 📫 How to reach me: huangzy2022@mail.sustech.edu.cn
 
  ⚡ Fun fact: My passion for AI is so strong that even my dreams are written in Python
 <!--
