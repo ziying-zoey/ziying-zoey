@@ -3,11 +3,11 @@
 
 🌱 I’m currently learning deep learning and LLM (they are sooo intersting!)
  
- 🤔 I’m looking for internship to practice my coding skills
+ 🤔 I’m searching for an internship to strengthen my skills in AI research
 
  📫 How to reach me: 12212453@mail.sustech.edu.cn
 
- ⚡ Fun fact: I lose hair whenever I'm nervous
+ ⚡ Fun fact: My passion for AI is so strong that even my dreams are written in Python
 <!--
 **Maninblk7/Maninblk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
