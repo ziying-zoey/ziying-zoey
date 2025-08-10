@@ -1,7 +1,7 @@
 ## Hi there 👋
 🔭 I’m currently a EEE undergraguate student in SUSTech major in Communication Engineering and minor in Finance
 
-🌱 I’m currently learning deep learning and LLM (they are sooo intersting!)
+🌱 I’m currently learning deep learning and LLM (they are sooo interesting!)
  
  🤔 I’m searching for an internship to strengthen my skills in AI research
 
